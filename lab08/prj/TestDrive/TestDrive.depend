@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1710075685 source:d:\laboratorna8\prj\testdrive\main.cpp
+	<iostream>
+	<Windows.h>
+	"ModulesChubenko.h"
+
+1709931490 d:\laboratorna8\prj\moduleschubenko\moduleschubenko.h
+

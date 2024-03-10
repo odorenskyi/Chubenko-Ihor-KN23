@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1709929934 source:d:\laboratorna8\prj\moduleschubenko\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<locale.h>
+
