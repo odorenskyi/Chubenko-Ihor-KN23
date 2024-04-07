@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1712520294 source:d:\bmtp\chubenko-ihor-kn23\lab09\prj\chubenko_task\main.cpp
+	<iostream>
+	<conio.h>
+	"ModulesChubenko.h"
+	<Windows.h>
+
+1711796656 d:\bmtp\chubenko-ihor-kn23\lab09\prj\moduleschubenko\moduleschubenko.h
+
+1712393221 d:\bmtp\chubenko-ihor-kn23\lab08\prj\moduleschubenko\moduleschubenko.h
+
