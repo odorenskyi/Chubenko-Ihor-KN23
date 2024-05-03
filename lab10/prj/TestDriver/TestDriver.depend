@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1714053568 source:d:\bmtp\chubenko-ihor-kn23\lab10\testdriver\main.cpp
+	<iostream>
+	<Windows.h>
+	"ModulesChubenko.h"
+	<fstream>
+	<string>
+	<set>
+	<sstream>
+
+1714396088 d:\bmtp\chubenko-ihor-kn23\lab08\prj\moduleschubenko\moduleschubenko.h
+
+1714399946 source:d:\bmtp\chubenko-ihor-kn23\lab10\prj\testdriver\main.cpp
+	<iostream>
+	<Windows.h>
+	"ModulesChubenko.h"
+	<fstream>
+	<string>
+	<set>
+	<sstream>
+	<chrono>
+	<iomanip>
+	<sstream>
+	<bitset>
+	<set>
+	<conio.h>
+
