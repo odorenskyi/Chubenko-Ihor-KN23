@@ -16,7 +16,15 @@
 				<Compiler>
 					<Add option="-Wall" />
 					<Add option="-g" />
+					<Add directory="../ModulesChubenko" />
 				</Compiler>
+				<ResourceCompiler>
+					<Add directory="../ModulesChubenko" />
+				</ResourceCompiler>
+				<Linker>
+					<Add library="bin/Debug/libModulesChubenko.a" />
+					<Add directory="../ModulesChubenko" />
+				</Linker>
 			</Target>
 			<Target title="Release">
 				<Option output="bin/Release/ModulesChubenko" prefix_auto="1" extension_auto="1" />
@@ -26,11 +34,17 @@
 				<Option compiler="gcc" />
 				<Option createDefFile="1" />
 				<Compiler>
-					<Add option="-Wall" />
 					<Add option="-O2" />
+					<Add option="-Wall" />
+					<Add directory="../ModulesChubenko" />
 				</Compiler>
+				<ResourceCompiler>
+					<Add directory="../ModulesChubenko" />
+				</ResourceCompiler>
 				<Linker>
 					<Add option="-s" />
+					<Add library="bin/Debug/libModulesChubenko.a" />
+					<Add directory="../ModulesChubenko" />
 				</Linker>
 			</Target>
 		</Build>

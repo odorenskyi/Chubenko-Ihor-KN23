@@ -5,3 +5,30 @@
 	<iomanip>
 	<locale.h>
 
+1711321325 source:d:\bmtp\chubenko-ihor-kn23\lab09\prj\moduleschubenko\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<locale.h>
+	<Windows.h>
+
+1714399773 source:d:\bmtp\chubenko-ihor-kn23\lab08\prj\moduleschubenko\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<locale.h>
+	<Windows.h>
+	<fstream>
+	<ctime>
+	<bitset>
+	<fstream>
+	<string>
+	<set>
+	<sstream>
+	<chrono>
+	<iomanip>
+	<conio.h>
+	"ModulesChubenko.h"
+
+1714396088 d:\bmtp\chubenko-ihor-kn23\lab08\prj\moduleschubenko\moduleschubenko.h
+
