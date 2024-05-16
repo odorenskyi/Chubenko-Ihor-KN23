@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1715880222 source:d:\bmtp\chubenko-ihor-kn23\lab11\prj\prj_4_chubenko\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<algorithm>
+	"ModulesChubenko.h"
+
+1715874579 d:\bmtp\chubenko-ihor-kn23\lab11\prj\modulka\moduleschubenko.h
+	<string>
+	<vector>
+	"struct_type_project_4.h"
+
+1715874579 d:\bmtp\chubenko-ihor-kn23\lab11\prj\modulka\struct_type_project_4.h
+	<string>
+
